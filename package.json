@@ -7,7 +7,6 @@
   "description": "The 3D-XO-Web is my aattempt to rewrite the 3D-XO project from XAML/C# app to JacaScript",
   "main": "index.js",
   "dependencies": {
-    "grunt": "^0.4.5"
   },
   "scripts": {
     "test": "test"
