@@ -1,4 +1,25 @@
 {
-    "name":"3D-XO-Web",
-    "version": "0.0.1"
+  "name": "3D-XO-Web",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "description": "The 3D-XO-Web is my aattempt to rewrite the 3D-XO project from XAML/C# app to JacaScript",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AVRoosin/3D-XO-Web.git"
+  },
+  "author": "AVRoosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVRoosin/3D-XO-Web/issues"
+  },
+  "homepage": "https://github.com/AVRoosin/3D-XO-Web"
 }
